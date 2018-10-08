@@ -1,3 +1,13 @@
+---
+layout: post
+title: 用vue写的去哪儿网webApp
+date: 2018-09-08
+categories: tools
+tags: vue
+
+# cover: '/assets/img/banner.jpg'
+---
+
 路由就是根据网址的不同返回不同的内容给用户
 
 显示的是当前路由地址的、所对应的内容
